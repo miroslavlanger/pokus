@@ -1,5 +1,4 @@
 // FiniteAutomaton.cpp : does input string contain substring "abc"?
-//
 
 #include "stdafx.h"
 #include <iostream>
